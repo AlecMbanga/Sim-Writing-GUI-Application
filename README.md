@@ -10,7 +10,7 @@ This application is a Graphical User Interface for SIM card Provisioning of  sys
 * Git clone https://gitea.sysmocom.de/sysmocom/sysmo-usim-tool.git
 * Git clone https://github.com/osmocom/pysim.git
     * Go inside the cloned folder then go to /pySim/construct.py and delete line 2,4,5 & 6.
-* Copy the clone pysim and sysmo-usim-tool folders to your Home directory in Ubuntu. **IMPORTANT**: It is crucial that these two folders are placed in the HOME directory because this application references this path. Your Home directory path should be “/home/your-username/”.
+* Copy the cloned pysim and sysmo-usim-tool folders to your Home directory in Ubuntu. **IMPORTANT**: It is crucial that these two folders are placed in the HOME directory because this application references this path. Your Home directory path should be “/home/your-username/”.
 * Copy the simwriting-1.0.deb debian package to any folder in your PC and open the terminal from the folder where you copied this debian package and execute the following command to install the application: "sudo dpkg -i simwriting-1.0.deb"
 * To open the application click “Activies” on the top left corner and search “simwriting”, the application icon should appear, you can open by clicking that icon.
 
