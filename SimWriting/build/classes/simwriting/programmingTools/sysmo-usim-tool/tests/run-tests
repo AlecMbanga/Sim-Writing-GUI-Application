@@ -1,0 +1,34 @@
+#!/bin/sh
+echo "=========================================================="
+echo "            EXECUTING TESTS FOR SYSMO-USIM-SJS1"
+echo "=========================================================="
+echo ""
+cd ./sjs1
+echo "Location $PWD"
+echo ""
+sh ./run-tests
+if [ ! $? -eq 0 ]; then
+  exit 1
+fi
+cd ..
+echo ""
+echo ""
+echo ""
+echo ""
+
+echo "=========================================================="
+echo "            EXECUTING TESTS FOR SYSMO-USIM-SJA2"
+echo "=========================================================="
+echo ""
+cd ./sja2
+echo "Location $PWD"
+echo ""
+sh ./run-tests
+if [ ! $? -eq 0 ]; then
+  exit 1
+fi
+cd ..
+echo ""
+echo ""
+echo ""
+echo ""

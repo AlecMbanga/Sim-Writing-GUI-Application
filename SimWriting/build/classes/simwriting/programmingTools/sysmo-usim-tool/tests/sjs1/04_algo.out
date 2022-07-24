@@ -1,0 +1,714 @@
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 1=MILENAGE
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 1=MILENAGE
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 3=COMP128v1
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 3=COMP128v1
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 4=XOR-2G
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 4=XOR-2G
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 5=GBA
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 5=GBA
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 6=COMP128v2
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 6=COMP128v2
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 7=COMP128v3
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 7=COMP128v3
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 9=CIS-B
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 9=CIS-B
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 5=GBA
+   3G: 8=XOR-3G
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 5=GBA
+   3G: 8=XOR-3G
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 3=COMP128v1
+   3G: 8=XOR-3G
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 3=COMP128v1
+   3G: 8=XOR-3G
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 1=MILENAGE
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 1=MILENAGE
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 3=COMP128v1
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 3=COMP128v1
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 4=XOR-2G
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 4=XOR-2G
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 6=COMP128v2
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 6=COMP128v2
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 7=COMP128v3
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 7=COMP128v3
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 9=CIS-B
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 9=CIS-B
+   3G: 1=MILENAGE
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 5=GBA
+   3G: 8=XOR-3G
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 5=GBA
+   3G: 8=XOR-3G
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Programming Authentication parameters...
+ * Initalizing...
+ * New algorithm setting:
+   2G: 3=COMP128v1
+   3G: 1=MILENAGE
+ * Programming...
+
+Done!
+sysmoUSIM-SJS1 parameterization tool
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
+
+Initializing smartcard terminal...
+ * Detected Card IMSI:  262423203000002
+   USIM Application installed
+
+Authenticating...
+ * Remaining attempts: 3
+ * Authenticating...
+ * Authentication successful
+ * Remaining attempts: 3
+
+Reading Authentication parameters...
+ * Initalizing...
+ * Reading...
+ * Current algorithm setting:
+   2G: 3=COMP128v1
+   3G: 1=MILENAGE
+
+Done!

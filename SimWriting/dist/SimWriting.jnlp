@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SimWriting.jnlp">
+  <information>
+    <title>SimWriting</title>
+    <vendor>alec</vendor>
+    <description>SimWriting</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SimWriting.jar" size="636920" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="simwriting.SimWriting"  name="SimWriting" />
+  <update check="background"/>
+</jnlp>
