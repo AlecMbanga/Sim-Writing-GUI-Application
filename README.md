@@ -3,7 +3,7 @@ This application is a Graphical User Interface for SIM card Provisioning of  sys
 ## Dependencies & Application installation
 
 ### Dependencies installation
-<p style="text-align: center;">Run the following commands in Ubuntu terminal</p>
+                      Run the following commands in Ubuntu terminal
 * sudo apt-get install pcscd pcsc-tools libccid libpcsclite-dev python3-pyscard python3-serial python3-pip
 * pip3 install pytlv cmd2 jsonpath-ng construct bidict gsm0338 pyyaml pycrypto
 ### Application installation
@@ -13,5 +13,6 @@ This application is a Graphical User Interface for SIM card Provisioning of  sys
 
 
 
-<p style="text-align: center;">The SIM writing GUI Image</p>
+### The SIM writing GUI Image
+
 ![GUI image](https://user-images.githubusercontent.com/49599591/180652079-30612cfb-a3b9-43e9-a960-9d5af479f337.png)
