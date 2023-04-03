@@ -1,0 +1,9 @@
+pyscard
+pyserial
+pytlv
+cmd2
+jsonpath-ng
+construct
+bidict
+gsm0338
+pyyaml
